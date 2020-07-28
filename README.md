@@ -1,0 +1,1 @@
+# alfred-generador-rut
